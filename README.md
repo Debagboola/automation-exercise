@@ -20,5 +20,14 @@ This is an automation exercise to showcase my knowledge of CYPRESS, CUCUMBER, PO
 |-----------------|-----------------|-----------------|
 | [[https://www.automationexercise.com](https://www.automationexercise.com)    | qat@mailinator.com     | 123456     |
 
+## Test Steps
+| Test Case | Test Scenarios | Test Steps | Expected Result | Actual Result | 
+|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Access Web Page    | Confirm that user can successfully access the web page | Go to "https://www.automationexercise.com/"   | okay    | pass |
+| Sign In    | Confirm that a valid user can successfully sign in to the portal     |1. Go to "https://www.automationexercise.com/" and click on Sign-In. 2. Sign-In using the following credentials: Username: qat@mailinator.com Password: 123456  | okay    | pass |
+| Sign In    | Confirm that an invalid user cannot successfully sign in to the portal     |1. Go to "https://www.automationexercise.com/" and click on Sign-In. 2. Sign-In using the following credentials: Username: qata@mailinator.com Password: 456  | okay    | pass |
+| Sign In    | Confirm that a user cannot successfully sign in to the portal by submitting without inputing any data   |1. Go to "https://www.automationexercise.com/" and click on Sign-In. 2. Sign-In using the following credentials: Username: Password: | okay    | pass |
+| Access Landing Page after sign in     | Confirm that user is rerouted to landing page after successfully sign in    | sign in successfully    | okay     | pass    |
+
 
 
