@@ -20,7 +20,7 @@ This is an automation exercise to showcase my knowledge of CYPRESS, CUCUMBER, PO
 |-----------------|-----------------|-----------------|
 | [[https://www.automationexercise.com](https://www.automationexercise.com)    | qat@mailinator.com     | 123456     |
 
-## Test Steps
+## Test Suite
 | Test Case | Test Scenarios | Test Steps | Expected Result | Actual Result | 
 |-----------------|-----------------|-----------------|-----------------|-----------------|
 | Access Web Page    | Confirm that user can successfully access the web page | Go to "https://www.automationexercise.com/"   | okay    | pass |
