@@ -18,7 +18,7 @@ This is an automation exercise to showcase my knowledge of CYPRESS, CUCUMBER, PO
 ## Test Data
 | Environment Url | Email Address | Password |
 |-----------------|-----------------|-----------------|
-| [[https://www.automationexercise.com](https://www.automationexercise.com)    | qat@mailinator.com     | 123456     |
+| [https://www.automationexercise.com](https://www.automationexercise.com)    | qat@mailinator.com     | 123456     |
 
 ## Test Suite
 | Test Case | Test Scenarios | Test Steps | Expected Result | Actual Result | 
